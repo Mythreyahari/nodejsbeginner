@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_beginner",
+  "version": "1.0.0",
+  "description": "\"# nodejsbeginner\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tsx watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mythreyahari/nodejsbeginner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mythreyahari/nodejsbeginner/issues"
+  },
+  "homepage": "https://github.com/Mythreyahari/nodejsbeginner#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  }
+}
