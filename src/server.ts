@@ -1,1 +1,3 @@
-console.log("Hello world");
+let x = -3
+console.log(x+1);
+
