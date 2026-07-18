@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
      "build":"tsc",
-     "02":"tsx src/02-Crypto-module.ts"
+     "02":"tsx src/02-Crypto-module.ts",
+     "03":"tsx src/03-os-module.ts"
   },
   "repository": {
     "type": "git",
