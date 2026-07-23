@@ -8,7 +8,8 @@
      "build":"tsc",
      "02":"tsx src/02-Crypto-module.ts",
      "03":"tsx src/03-os-module.ts",
-     "04":"tsx src/04-path-module.ts"
+     "04":"tsx src/04-path-module.ts",
+     "05":"tsx src/05-timers-module.ts"
   },
   "repository": {
     "type": "git",
