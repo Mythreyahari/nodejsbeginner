@@ -32,7 +32,6 @@ function runUrlDemo(): void {
   });
 
   console.log(queryparams.toString());
-  
 }
 
 runUrlDemo();
